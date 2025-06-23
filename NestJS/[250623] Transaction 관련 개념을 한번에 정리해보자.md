@@ -1,6 +1,7 @@
 ### [NestJS] Transaction 관련 한번 정리
 
 > 전부 완료되거나, 하나도 완료되지 않아야 하는 특성을 가짐. all or nothing
+> 
 > 데이터베이스 상태를 변경시키기 위해 수행하는, 일련의 작업으로 함께 처리되어야 하는 작업 단위
 
 1. Typeorm에서 Transaction 처리하는 방법
